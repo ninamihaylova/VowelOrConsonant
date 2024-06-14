@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\bin\Debug\net8.0\VowelOrConsonant.exe
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\bin\Debug\net8.0\VowelOrConsonant.deps.json
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\bin\Debug\net8.0\VowelOrConsonant.runtimeconfig.json
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\bin\Debug\net8.0\VowelOrConsonant.dll
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\bin\Debug\net8.0\VowelOrConsonant.pdb
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\obj\Debug\net8.0\VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\obj\Debug\net8.0\VowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\obj\Debug\net8.0\VowelOrConsonant.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\obj\Debug\net8.0\VowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\obj\Debug\net8.0\VowelOrConsonant.dll
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\obj\Debug\net8.0\refint\VowelOrConsonant.dll
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\obj\Debug\net8.0\VowelOrConsonant.pdb
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\obj\Debug\net8.0\VowelOrConsonant.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\VowelOrConsonant\VowelOrConsonant\obj\Debug\net8.0\ref\VowelOrConsonant.dll
